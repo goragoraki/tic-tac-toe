@@ -1,0 +1,15 @@
+.game-container {
+    display: flex;
+    gap: 5px;
+}
+
+.game-info {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin: 10px;
+}
+
+.game-info>button {
+    max-width: 150px;
+}
